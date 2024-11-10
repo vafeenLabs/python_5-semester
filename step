@@ -1,0 +1,5 @@
+python -m venv venv  - создание виртуального окружения 
+source venv/bin/activate - активация виртуального окружения
+echo pytest > requirements.txt - создание файла с зависимостями 
+parent_dir:> pythom имя_проекта - запуск проекта
+project_dir:> pytest - запуск тестов 

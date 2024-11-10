@@ -1,0 +1,6 @@
+============================= test session starts ==============================
+platform linux -- Python 3.12.5, pytest-7.4.3, pluggy-1.3.0
+rootdir: /home/a/CODESPACE/LABS/pythonLabs/lab2
+collected 0 items
+
+============================ no tests ran in 0.00s =============================
